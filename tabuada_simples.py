@@ -1,0 +1,15 @@
+usuario = int(input("diga o qual tabuada voce quer?:"))
+
+print("-" * 20)
+print(f"{usuario} X 1 = {usuario * 1}")
+print(f"{usuario} X 2 = {usuario * 2}")
+print(f"{usuario} X 3 = {usuario * 3}")
+print(f"{usuario} X 4 = {usuario * 4}")
+print(f"{usuario} X 5 = {usuario * 5}")
+print(f"{usuario} X 6 = {usuario * 6}")
+print(f"{usuario} X 7 = {usuario * 7}")
+print(f"{usuario} X 8 = {usuario * 8}")
+print(f"{usuario} X 9 = {usuario * 9}")
+print(f"{usuario} X 10 = {usuario * 10}")
+
+print("-" * 20)
