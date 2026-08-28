@@ -1,11 +1,3 @@
-Boa! Você quer saber como preencher esse README para o seu repositório de Python ficar com uma cara profissional. O README é a "capa" do seu livro; é onde você explica o que o código faz.
-
-Como esse repositório é dos seus estudos de Python com o Guanabara, aqui está um modelo pronto para você copiar e colar (seja clicando nesse botão verde ou criando um arquivo README.md no VS Code).
-
-📝 Modelo para o seu Repositório de Python
-Copie o texto abaixo e cole lá:
-
-Markdown
 # 🐍 Meus Estudos de Python: Lógica e Algoritmos
 
 Bem-vindo ao meu repositório de estudos de Python! Aqui eu guardo todos os exercícios e desafios que estou resolvendo para dominar a linguagem.
